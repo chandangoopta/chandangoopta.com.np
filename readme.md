@@ -4,4 +4,4 @@
 
 chandangoopta.com.np is personal webpage of Mr. Chandan Goopta
 
-[![Twitter](http://twitter.com/chandangoopta)]
+[![Twitter]](http://twitter.com/chandangoopta)
